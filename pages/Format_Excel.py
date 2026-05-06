@@ -142,6 +142,7 @@ code_map = {
     "632": ("Inverter", "EV Charger"),
     "633": ("Inverter", "ArcBox"),
     "642": ("Boxset", "ชุดเซ็ท"),
+    "643": ("Boxset", "ชุดเซ็ท"),
     "651": ("Inverter", "สายไฟ Solar"),
     "652": ("Inverter", "MC4"),
     "661": ("Inverter", "DC/AC Combiner Box"),
